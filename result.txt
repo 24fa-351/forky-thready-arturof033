@@ -1,0 +1,138 @@
+Pattern 1:
+----Starting Process 1: ----
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Child 5 starting
+Child process 5 exiting.
+Process 0 starting
+Parent created child for 0 (pid 98223)
+Parent process (PID: 98223) waited for child (PID: 98224)
+waitpid: No child processes
+
+Pattern 1:
+----Starting Process 1: ----
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Child 5 starting
+Child process 5 exiting.
+Child 6 starting
+Child process 6 exiting.
+Child 7 starting
+Child process 7 exiting.
+Child 8 starting
+Child process 8 exiting.
+Child 9 starting
+Child process 9 exiting.
+Child 10 starting
+Child process 10 exiting.
+Process 0 starting
+Parent created child for 0 (pid 98279)
+Parent process (PID: 98279) waited for child (PID: 98280)
+waitpid: No child processes
+
+Pattern 2:
+----Starting Process 2: ----
+Process 0 starting
+Parent created child for 0 (pid 98240)
+Will sleep for 2 second(s).
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Child 5 starting
+Child process 5 exiting.
+Process 1 starting
+Parent created child for 1 (pid 98240)
+Will sleep for 1 second(s).
+Process 2 starting
+Parent created child for 2 (pid 98240)
+Will sleep for 3 second(s).
+Process 3 starting
+Parent created child for 3 (pid 98240)
+Will sleep for 4 second(s).
+Process 4 starting
+Parent created child for 4 (pid 98240)
+Will sleep for 2 second(s).
+Process 5 starting
+Parent created child for 5 (pid 98240)
+Will sleep for 1 second(s).
+
+Pattern 2:
+----Starting Process 2: ----
+Process 0 starting
+Parent created child for 0 (pid 98294)
+Will sleep for 2 second(s).
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Child 5 starting
+Child process 5 exiting.
+Child 6 starting
+Child process 6 exiting.
+Child 7 starting
+Child process 7 exiting.
+Child 8 starting
+Child process 8 exiting.
+Child 9 starting
+Child process 9 exiting.
+Child 10 starting
+Child process 10 exiting.
+Process 1 starting
+Parent created child for 1 (pid 98294)
+Will sleep for 1 second(s).
+Process 2 starting
+Parent created child for 2 (pid 98294)
+Will sleep for 3 second(s).
+Process 3 starting
+Parent created child for 3 (pid 98294)
+Will sleep for 4 second(s).
+Process 4 starting
+Parent created child for 4 (pid 98294)
+Will sleep for 2 second(s).
+Process 5 starting
+Parent created child for 5 (pid 98294)
+Will sleep for 1 second(s).
+Process 6 starting
+Parent created child for 6 (pid 98294)
+Will sleep for 3 second(s).
+Process 7 starting
+Parent created child for 7 (pid 98294)
+Will sleep for 4 second(s).
+Process 8 starting
+Parent created child for 8 (pid 98294)
+Will sleep for 2 second(s).
+Process 9 starting
+Parent created child for 9 (pid 98294)
+Will sleep for 1 second(s).
+Process 10 starting
+Parent created child for 10 (pid 98294)
+Will sleep for 3 second(s).
