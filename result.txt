@@ -2,137 +2,209 @@ Pattern 1:
 ----Starting Process 1: ----
 Child 0 starting
 Child process 0 exiting.
+Parent process (PID: 52695) waited for child (PID: 52696)
+Process 0 starting
+Parent created child for 0 (pid 52695)
+Will sleep for 5 second(s).
 Child 1 starting
 Child process 1 exiting.
+Parent process (PID: 52695) waited for child (PID: 52702)
+Process 1 starting
+Parent created child for 1 (pid 52695)
+Will sleep for 8 second(s).
 Child 2 starting
 Child process 2 exiting.
+Parent process (PID: 52695) waited for child (PID: 52706)
+Process 2 starting
+Parent created child for 2 (pid 52695)
+Will sleep for 8 second(s).
 Child 3 starting
 Child process 3 exiting.
+Parent process (PID: 52695) waited for child (PID: 52711)
+Process 3 starting
+Parent created child for 3 (pid 52695)
+Will sleep for 8 second(s).
 Child 4 starting
 Child process 4 exiting.
+Parent process (PID: 52695) waited for child (PID: 52717)
+Process 4 starting
+Parent created child for 4 (pid 52695)
+Will sleep for 8 second(s).
 Child 5 starting
 Child process 5 exiting.
-Process 0 starting
-Parent created child for 0 (pid 98223)
-Parent process (PID: 98223) waited for child (PID: 98224)
-waitpid: No child processes
+Parent process (PID: 52695) waited for child (PID: 52721)
+Process 5 starting
+Parent created child for 5 (pid 52695)
+Will sleep for 8 second(s).
 
-Pattern 1:
+
 ----Starting Process 1: ----
 Child 0 starting
 Child process 0 exiting.
+Parent process (PID: 52754) waited for child (PID: 52755)
+Process 0 starting
+Parent created child for 0 (pid 52754)
+Will sleep for 4 second(s).
 Child 1 starting
 Child process 1 exiting.
+Parent process (PID: 52754) waited for child (PID: 52761)
+Process 1 starting
+Parent created child for 1 (pid 52754)
+Will sleep for 8 second(s).
 Child 2 starting
 Child process 2 exiting.
+Parent process (PID: 52754) waited for child (PID: 52766)
+Process 2 starting
+Parent created child for 2 (pid 52754)
+Will sleep for 8 second(s).
 Child 3 starting
 Child process 3 exiting.
+Parent process (PID: 52754) waited for child (PID: 52772)
+Process 3 starting
+Parent created child for 3 (pid 52754)
+Will sleep for 8 second(s).
 Child 4 starting
 Child process 4 exiting.
+Parent process (PID: 52754) waited for child (PID: 52776)
+Process 4 starting
+Parent created child for 4 (pid 52754)
+Will sleep for 8 second(s).
 Child 5 starting
 Child process 5 exiting.
+Parent process (PID: 52754) waited for child (PID: 52782)
+Process 5 starting
+Parent created child for 5 (pid 52754)
+Will sleep for 8 second(s).
 Child 6 starting
 Child process 6 exiting.
-Child 7 starting
-Child process 7 exiting.
-Child 8 starting
-Child process 8 exiting.
-Child 9 starting
-Child process 9 exiting.
-Child 10 starting
-Child process 10 exiting.
-Process 0 starting
-Parent created child for 0 (pid 98279)
-Parent process (PID: 98279) waited for child (PID: 98280)
-waitpid: No child processes
-
-Pattern 2:
-----Starting Process 2: ----
-Process 0 starting
-Parent created child for 0 (pid 98240)
-Will sleep for 2 second(s).
-Child 0 starting
-Child process 0 exiting.
-Child 1 starting
-Child process 1 exiting.
-Child 2 starting
-Child process 2 exiting.
-Child 3 starting
-Child process 3 exiting.
-Child 4 starting
-Child process 4 exiting.
-Child 5 starting
-Child process 5 exiting.
-Process 1 starting
-Parent created child for 1 (pid 98240)
-Will sleep for 1 second(s).
-Process 2 starting
-Parent created child for 2 (pid 98240)
-Will sleep for 3 second(s).
-Process 3 starting
-Parent created child for 3 (pid 98240)
-Will sleep for 4 second(s).
-Process 4 starting
-Parent created child for 4 (pid 98240)
-Will sleep for 2 second(s).
-Process 5 starting
-Parent created child for 5 (pid 98240)
-Will sleep for 1 second(s).
-
-Pattern 2:
-----Starting Process 2: ----
-Process 0 starting
-Parent created child for 0 (pid 98294)
-Will sleep for 2 second(s).
-Child 0 starting
-Child process 0 exiting.
-Child 1 starting
-Child process 1 exiting.
-Child 2 starting
-Child process 2 exiting.
-Child 3 starting
-Child process 3 exiting.
-Child 4 starting
-Child process 4 exiting.
-Child 5 starting
-Child process 5 exiting.
-Child 6 starting
-Child process 6 exiting.
-Child 7 starting
-Child process 7 exiting.
-Child 8 starting
-Child process 8 exiting.
-Child 9 starting
-Child process 9 exiting.
-Child 10 starting
-Child process 10 exiting.
-Process 1 starting
-Parent created child for 1 (pid 98294)
-Will sleep for 1 second(s).
-Process 2 starting
-Parent created child for 2 (pid 98294)
-Will sleep for 3 second(s).
-Process 3 starting
-Parent created child for 3 (pid 98294)
-Will sleep for 4 second(s).
-Process 4 starting
-Parent created child for 4 (pid 98294)
-Will sleep for 2 second(s).
-Process 5 starting
-Parent created child for 5 (pid 98294)
-Will sleep for 1 second(s).
+Parent process (PID: 52754) waited for child (PID: 52786)
 Process 6 starting
-Parent created child for 6 (pid 98294)
-Will sleep for 3 second(s).
+Parent created child for 6 (pid 52754)
+Will sleep for 8 second(s).
+Child 7 starting
+Child process 7 exiting.
+Parent process (PID: 52754) waited for child (PID: 52791)
 Process 7 starting
-Parent created child for 7 (pid 98294)
-Will sleep for 4 second(s).
+Parent created child for 7 (pid 52754)
+Will sleep for 8 second(s).
+Child 8 starting
+Child process 8 exiting.
+Parent process (PID: 52754) waited for child (PID: 52796)
 Process 8 starting
-Parent created child for 8 (pid 98294)
-Will sleep for 2 second(s).
+Parent created child for 8 (pid 52754)
+Will sleep for 8 second(s).
+Child 9 starting
+Child process 9 exiting.
+Parent process (PID: 52754) waited for child (PID: 52803)
 Process 9 starting
-Parent created child for 9 (pid 98294)
-Will sleep for 1 second(s).
+Parent created child for 9 (pid 52754)
+Will sleep for 8 second(s).
+
+
+Pattern 2:
+----Starting Process 2: ----
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Parent process (PID: 52851) waited for child (PID: 52852)
+Process 4 starting
+Parent created child for 4 (pid 52851)
+Will sleep for 6 second(s).
+Parent process (PID: 52850) waited for child (PID: 52851)
+Process 3 starting
+Parent created child for 3 (pid 52850)
+Will sleep for 8 second(s).
+Parent process (PID: 52849) waited for child (PID: 52850)
+Process 2 starting
+Parent created child for 2 (pid 52849)
+Will sleep for 8 second(s).
+Parent process (PID: 52848) waited for child (PID: 52849)
+Process 1 starting
+Parent created child for 1 (pid 52848)
+Will sleep for 8 second(s).
+Parent process (PID: 52847) waited for child (PID: 52848)
+Process 0 starting
+Parent created child for 0 (pid 52847)
+Will sleep for 8 second(s).
+
+
+----Starting Process 2: ----
+Child 0 starting
+Child process 0 exiting.
+Child 1 starting
+Child process 1 exiting.
+Child 2 starting
+Child process 2 exiting.
+Child 3 starting
+Child process 3 exiting.
+Child 4 starting
+Child process 4 exiting.
+Child 5 starting
+Child process 5 exiting.
+Child 6 starting
+Child process 6 exiting.
+Child 7 starting
+Child process 7 exiting.
+Child 8 starting
+Child process 8 exiting.
+Child 9 starting
+Child process 9 exiting.
+Child 10 starting
+Child process 10 exiting.
+Child 11 starting
+Child process 11 exiting.
+Parent process (PID: 52903) waited for child (PID: 52904)
+Process 11 starting
+Parent created child for 11 (pid 52903)
+Will sleep for 7 second(s).
+Parent process (PID: 52902) waited for child (PID: 52903)
 Process 10 starting
-Parent created child for 10 (pid 98294)
-Will sleep for 3 second(s).
+Parent created child for 10 (pid 52902)
+Will sleep for 8 second(s).
+Parent process (PID: 52901) waited for child (PID: 52902)
+Process 9 starting
+Parent created child for 9 (pid 52901)
+Will sleep for 8 second(s).
+Parent process (PID: 52900) waited for child (PID: 52901)
+Process 8 starting
+Parent created child for 8 (pid 52900)
+Will sleep for 8 second(s).
+Parent process (PID: 52899) waited for child (PID: 52900)
+Process 7 starting
+Parent created child for 7 (pid 52899)
+Will sleep for 8 second(s).
+Parent process (PID: 52898) waited for child (PID: 52899)
+Process 6 starting
+Parent created child for 6 (pid 52898)
+Will sleep for 8 second(s).
+Parent process (PID: 52897) waited for child (PID: 52898)
+Process 5 starting
+Parent created child for 5 (pid 52897)
+Will sleep for 8 second(s).
+Parent process (PID: 52896) waited for child (PID: 52897)
+Process 4 starting
+Parent created child for 4 (pid 52896)
+Will sleep for 8 second(s).
+Parent process (PID: 52895) waited for child (PID: 52896)
+Process 3 starting
+Parent created child for 3 (pid 52895)
+Will sleep for 8 second(s).
+Parent process (PID: 52894) waited for child (PID: 52895)
+Process 2 starting
+Parent created child for 2 (pid 52894)
+Will sleep for 8 second(s).
+Parent process (PID: 52893) waited for child (PID: 52894)
+Process 1 starting
+Parent created child for 1 (pid 52893)
+Will sleep for 8 second(s).
+Parent process (PID: 52892) waited for child (PID: 52893)
+Process 0 starting
+Parent created child for 0 (pid 52892)
+Will sleep for 8 second(s).
